@@ -1,4 +1,4 @@
-# 🌐 Bhumika's Developer Portfolio
+# 🌐 Bhumika's Portfolio
 
 A sleek, animated portfolio website built with **React**, featuring a **secure admin panel** powered by **Firebase**. This allows real-time editing of content (About, Projects, Contact) **directly from the deployed site** — no need to touch code!
 
